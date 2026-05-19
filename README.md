@@ -14,10 +14,10 @@ Acredito na **transformação educacional através da tecnologia**. Meu objetivo
 
 - 🎓 Educação Digital e Aprendizagem Híbrida
 - 📊 Data-Driven Decision Making em educação
-- 🤖 Aplicações estratégicas de IA em ambientes educacionais
-- 🔄 Processos de melhoria contínua (PDCA, Lean)
+- 🤖 Aplicações estratégicas de IA
+- 🔄 Processos de melhoria contínua
 - 🌐 Transformação digital em instituições educacionais
-- 📈 Gestão de Produtos e Roadmap estratégico
+- 📈 Gestão de Projetos
 
 ---
 
