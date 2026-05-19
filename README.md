@@ -1,20 +1,3 @@
-
----
-
-## 📚 Cursos & Capacitações Recentes
-
-| Curso | Instituição | Ano |
-|-------|-------------|-----|
-| **Inovando na Gestão de Projetos** | ENAP | 2025 |
-| **Introdução à Gestão de Processos** | ENAP | 2025 |
-| **Gestão de Projetos** | ENAP | 2025 |
-| **Laboratório de Soluções Inovadoras** | Instituto Aliança | 2025 |
-| **Análise de Dados Educacionais no Power BI** | Atitus | 2024 |
-| **Aprendizagem Híbrida e Tecnologias Digitais** | IPAE | 2024 |
-| **Inovação em Sistemas de Gestão e Aprendizagem** | IPAE | 2024 |
-
----
-
 ## 🌟 O que Me Move
 
 Acredito na **transformação educacional através da tecnologia**. Meu objetivo é:
