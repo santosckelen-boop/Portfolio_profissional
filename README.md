@@ -5,7 +5,7 @@ Acredito na **transformação educacional através da tecnologia**. Meu objetivo
 - 🎯 **Conectar visões** - Unir educadores, tecnólogos e lideranças em torno de objetivos comuns
 - 📊 **Evidenciar impacto** - Demonstrar valor através de dados, resultados e entregas estratégicas
 - 🚀 **Inovar com propósito** - Implementar soluções que realmente melhoram a experiência de aprendizagem
-- 👥 **Liderar com empatia** - Reconhecer as necessidades de cada stakeholder e buscar soluções win-win
+- 👥 **Liderar com empatia** - Reconhecer as necessidades de cada stakeholder e buscar soluções
 - 📈 **Escalar excelência** - Transformar boas práticas em processos sustentáveis
 
 ---
