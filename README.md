@@ -27,7 +27,7 @@ Estou disponível para:
 - 💼 Oportunidades de projetos em educação digital e tecnologia
 - 🤝 Parcerias e colaborações inovadoras
 - 📚 Compartilhar conhecimento e experiências
-- 💬 Conversar sobre transformação educacional
+- 💬 Conversar sobre o mundo tech
 
 <div align="center">
 
