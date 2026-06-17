@@ -41,8 +41,6 @@ Estou disponível para:
 
 <div align="center">
 
-**Feito com ❤️ e pensamento estratégico**
-
 *"Educação transformadora começa com pessoas dispostas a conectar visões."*
 
 </div>
