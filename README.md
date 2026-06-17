@@ -12,18 +12,18 @@ Acredito na **transformação educacional através da tecnologia**. Meu objetivo
 
 ## 💡 Interesses & Focos Atuais
 
-- 🎓 Educação Digital e Aprendizagem Híbrida
-- 📊 Data-Driven Decision Making em educação
+- 🎓 Educação digital
+- 📊 Data-Driven decision mMaking em educação
 - 🤖 Aplicações estratégicas de IA
 - 🔄 Processos de melhoria contínua
 - 🌐 Transformação digital em instituições educacionais
-- 📈 Gestão de Projetos
+- 📈 Gestão de projetos
 
 ---
 
 ## 📞 Vamos Conectar?
 
-Estou sempre aberta para:
+Estou disponível para:
 - 💼 Oportunidades de projetos em educação digital e tecnologia
 - 🤝 Parcerias e colaborações inovadoras
 - 📚 Compartilhar conhecimento e experiências
